@@ -10,7 +10,7 @@ media_folder: static/img
 public_folder: /img
 i18n:
   structure: single_file
-  locales: [pl]
+  locales: [pl, en]
 
 # Docs: https://www.netlifycms.org/docs/configuration-options/#collections
 collections:
